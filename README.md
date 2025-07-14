@@ -40,6 +40,11 @@
 
 ## 📊 GitHub Stats
 
+### 🗓️ Contribution Calendar
+<div align="center">
+  <img src="https://ghchart.rshah.org/219138/NareshRana1999" alt="NareshRana1999's Contribution Graph" style="max-width: 100%;" />
+</div>
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/NareshRana1999/github-readme-stats">
