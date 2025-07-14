@@ -38,64 +38,43 @@
   <p>Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
 </div>
 
-## 📊 GitHub Activity Overview
+## 📊 GitHub Stats
 
-<!-- Top Row: Stats and Calendar -->
-<div align="center" style="display: grid; grid-template-columns: 1.5fr 1fr; gap: 20px; margin: 20px 0;">
-  <!-- Left Column: Stats and Languages -->
-  <div style="display: flex; flex-direction: column; gap: 15px;">
-    <!-- GitHub Stats -->
-    <div>
-      <h3>📊 Activity Overview</h3>
-      <a href="https://github.com/NareshRana1999">
-        <img src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width: 100%; border-radius: 8px;" />
-      </a>
-    </div>
-    
-    <!-- Detailed Activity -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
-      <!-- Top Languages -->
-      <div>
-        <h4>💻 Top Languages</h4>
-        <a href="https://github.com/NareshRana1999/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" style="width: 100%; border-radius: 8px;" />
-        </a>
-      </div>
-      
-      <!-- Highlighted Trophy -->
-      <div>
-        <h4>🏆 Achievement</h4>
-        <a href="https://github.com/NareshRana1999">
-          <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&margin-w=5&margin-h=5&row=1&column=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" style="width: 100%; border-radius: 8px;" />
-        </a>
-      </div>
-    </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin: 15px 0;">
+  <!-- Stats Card -->
+  <div>
+    <a href="https://github.com/NareshRana1999">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" style="width: 100%; max-height: 150px;" />
+    </a>
   </div>
   
-  <!-- Right Column: Contribution Calendar -->
+  <!-- Languages Card -->
   <div>
-    <h3>📅 Contribution Heatmap</h3>
     <a href="https://github.com/NareshRana1999">
-      <img src="https://ghchart.rshah.org/219138/NareshRana1999" alt="NareshRana1999's Contribution Graph" style="width: 100%; border-radius: 8px;" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Top Languages" style="width: 100%; max-height: 150px;" />
+    </a>
+  </div>
+  
+  <!-- Streak Card -->
+  <div>
+    <a href="https://github.com/NareshRana1999">
+      <img height="150" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="width: 100%; max-height: 150px;" />
     </a>
   </div>
 </div>
 
-<!-- Bottom Row: Streak and Additional Stats -->
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <!-- Streak Stats -->
-  <div>
-    <h3>🔥 Contribution Streak</h3>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="width: 100%; border-radius: 8px;" />
-    </a>
-  </div>
-  
-  <!-- Additional Stats -->
-  <div>
-    <h3>📈 Activity Metrics</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NareshRana1999&theme=radical" alt="Activity Graph" style="width: 100%; border-radius: 8px;" />
-  </div>
+<!-- Compact Contribution Graph -->
+<div style="margin: 10px 0;">
+  <a href="https://github.com/NareshRana1999">
+    <img height="120" src="https://ghchart.rshah.org/219138/NareshRana1999" alt="Contribution Graph" style="width: 100%; max-height: 120px;" />
+  </a>
+</div>
+
+<!-- Compact Trophy -->
+<div style="text-align: center; margin: 5px 0 15px 0;">
+  <a href="https://github.com/NareshRana1999">
+    <img height="80" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&margin-w=5&margin-h=5&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophy" style="max-height: 80px;" />
+  </a>
 </div>
 
 ## 🛠️ Technical Skills
