@@ -61,10 +61,10 @@
     </td>
   </tr>
   <tr>
-    <!-- GitHub Streak Card -->
+    <!-- GitHub Streak Card (Custom Badge) -->
     <td width="50%">
-      <a href="https://git.io/streak-stats">
-        <img width="100%" src="https://streak-stats.demolab.com?user=nareshrana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <a href="https://github.com/nareshrana1999?tab=repositories">
+        <img src="https://img.shields.io/badge/Current%20Streak-0%20days-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=ff79c6" alt="GitHub Streak" style="width: 100%; height: auto;" />
       </a>
     </td>
     <!-- GitHub Detailed Stats Card -->
