@@ -32,47 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- Compact Side by Side GIFs -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin: 15px 0; background: rgba(13,17,23,0.9); padding: 5px; border-radius: 6px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 4px rgba(0,0,0,0.1); flex-wrap: nowrap;">
-  <img src="assets/gif/coding.gif" alt="Coding" style="width: 40px; height: 40px; object-fit: cover; border-radius: 3px; border: 1px solid rgba(13,71,161,0.4);" />
-  <img src="assets/gif/Gif.gif" alt="Development" style="width: 40px; height: 40px; object-fit: cover; border-radius: 3px; border: 1px solid rgba(13,71,161,0.4);" />
-</div>
-
-## 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0; justify-content: center; background: linear-gradient(135deg, #0d1117 0%, #1a2a44 100%); padding: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  <!-- Stats Card -->
-  <div style="flex: 0 0 200px; background: #0d1117; border-radius: 8px; padding: 8px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #0d47a1; margin: 0 0 6px 0; font-size: 14px; text-align: center; font-weight: 600;">STATS</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true&count_private=true&hide_rank=true&line_height=12&card_width=100%&hide_title=true&border_radius=3&custom_title=&include_all_commits=true" alt="GitHub Stats" style="width: 100%; border-radius: 5px; height: 150px; object-fit: cover;" />
-  </div>
-  
-  <!-- Languages Card -->
-  <div style="flex: 0 0 200px; background: #0d1117; border-radius: 8px; padding: 8px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #0d47a1; margin: 0 0 6px 0; font-size: 14px; text-align: center; font-weight: 600;">LANGUAGES</p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true&card_width=100%&hide_title=true&border_radius=3&langs_count=5" alt="Top Languages" style="width: 100%; border-radius: 5px; height: 150px; object-fit: cover;" />
-  </div>
-  
-  <!-- Streak Card -->
-  <div style="flex: 0 0 200px; background: #0d1117; border-radius: 8px; padding: 8px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #0d47a1; margin: 0 0 6px 0; font-size: 14px; text-align: center; font-weight: 600;">STREAK</p>
-    <img src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=BBBBBB&card_width=100%&border_radius=3" alt="GitHub Streak" style="width: 100%; border-radius: 5px; height: 150px; object-fit: cover;" />
-  </div>
-  
-  <!-- Trophies Card -->
-  <div style="flex: 0 0 200px; background: #0d1117; border-radius: 8px; padding: 8px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #0d47a1; margin: 0 0 6px 0; font-size: 14px; text-align: center; font-weight: 600;">TROPHIES</p>
-    <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=2&margin-h=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories,Stars&row=1&column=4" alt="GitHub Trophies" style="width: 100%; border-radius: 5px; height: 150px; object-fit: cover;" />
-  </div>
-</div>
-
-<!-- Activity Graph -->
-<div style="margin: 15px 0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  <a href="https://github.com/NareshRana1999/github-readme-activity-graph">
-    <img alt="Naresh's Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true" />
-  </a>
-</div>
-
 ## 👋 About Me
 
 <div align="center" style="margin: 20px 0;">
