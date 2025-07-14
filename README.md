@@ -64,13 +64,13 @@
     <!-- GitHub Streak Card -->
     <td width="50%">
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=false" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.vercel.app/?user=NareshRana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
-    <!-- GitHub Metrics Card -->
+    <!-- GitHub Stats Card -->
     <td width="50%">
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nareshrana1999&theme=radical&hide_border=false" alt="GitHub Metrics" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" />
       </a>
     </td>
   </tr>
