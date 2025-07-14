@@ -63,13 +63,6 @@
   </div>
 </div>
 
-<!-- Compact Contribution Graph -->
-<div style="margin: 10px 0;">
-  <a href="https://github.com/NareshRana1999">
-    <img height="120" src="https://ghchart.rshah.org/219138/NareshRana1999" alt="Contribution Graph" style="width: 100%; max-height: 120px;" />
-  </a>
-</div>
-
 <!-- Compact Trophy -->
 <div style="text-align: center; margin: 5px 0 15px 0;">
   <a href="https://github.com/NareshRana1999">
