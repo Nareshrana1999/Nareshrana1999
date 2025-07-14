@@ -61,33 +61,11 @@
     </td>
   </tr>
   <tr>
-    <!-- GitHub Streak Card (Detailed) -->
+    <!-- GitHub Streak Card -->
     <td width="50%">
-      <div style="background: #1a1b27; border-radius: 10px; padding: 15px; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <div style="display: flex; align-items: center; margin-bottom: 10px;">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="#ff79c6" style="margin-right: 10px;">
-            <path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm0 15l-5-5h3V9h4v4h3l-5 5z"/>
-          </svg>
-          <h3 style="margin: 0; color: #ff79c6;">GitHub Streak</h3>
-        </div>
-        <div style="display: flex; justify-content: space-between; text-align: center; margin-top: 15px;">
-          <div>
-            <div style="font-size: 24px; font-weight: bold; color: #fff;">0</div>
-            <div style="font-size: 12px; color: #8b949e;">Current Streak</div>
-          </div>
-          <div>
-            <div style="font-size: 24px; font-weight: bold; color: #fff;">0</div>
-            <div style="font-size: 12px; color: #8b949e;">Best Streak</div>
-          </div>
-          <div>
-            <div style="font-size: 24px; font-weight: bold; color: #fff;">0</div>
-            <div style="font-size: 12px; color: #8b949e;">Total Contributions</div>
-          </div>
-        </div>
-        <div style="margin-top: 15px; text-align: center;">
-          <a href="https://github.com/nareshrana1999" style="color: #58a6ff; text-decoration: none; font-size: 12px;">View Profile →</a>
-        </div>
-      </div>
+      <a href="https://github.com/nareshrana1999">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshrana1999&theme=dark" alt="GitHub Streak" />
+      </a>
     </td>
     <!-- GitHub Detailed Stats Card -->
     <td width="50%">
