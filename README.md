@@ -51,23 +51,23 @@
     <td width="50%">
       <h4>GitHub Stats</h4>
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&show_reviews=true&line_height=20" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nareshrana1999&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
     <!-- Top Languages Card -->
     <td width="50%">
       <h4>Top Languages</h4>
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshrana1999&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
       </a>
     </td>
   </tr>
   <tr>
-    <!-- Contribution Streak Card -->
+    <!-- GitHub Activity -->
     <td width="50%">
-      <h4>Contribution Streak</h4>
+      <h4>GitHub Activity</h4>
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshrana1999&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Activity" />
       </a>
     </td>
     <!-- GitHub Metrics Card -->
