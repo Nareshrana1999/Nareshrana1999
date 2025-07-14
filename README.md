@@ -38,43 +38,46 @@
   <p>Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
-### 🗓️ Contribution Calendar
-<div align="center">
-  <img src="https://ghchart.rshah.org/219138/NareshRana1999" alt="NareshRana1999's Contribution Graph" style="max-width: 100%;" />
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/NareshRana1999/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
+  <div>
+    <h3>📈 GitHub Stats</h3>
+    <a href="https://github.com/NareshRana1999/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
+    </a>
+  </div>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/NareshRana1999/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <div>
+    <h3>💻 Top Languages</h3>
+    <a href="https://github.com/NareshRana1999/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%;" />
+    </a>
+  </div>
   
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img width="45%" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <div>
+    <h3>🔥 Streak Stats</h3>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%;" />
+    </a>
+  </div>
   
   <!-- Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
+  <div>
+    <h3>🏆 GitHub Trophies</h3>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" style="width: 100%;" />
+    </a>
+  </div>
 </div>
 
 <!-- GitHub Metrics -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%">
+<div align="center" style="margin: 30px 0;">
+  <h3>📊 Detailed Metrics</h3>
+  <img src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🛠️ Technical Skills
