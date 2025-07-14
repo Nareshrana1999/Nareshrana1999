@@ -67,10 +67,10 @@
         <img width="100%" src="https://github-readme-streak-stats.vercel.app/?user=NareshRana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
-    <!-- GitHub Stats Card -->
+    <!-- GitHub Detailed Stats Card -->
     <td width="50%">
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" />
+        <img width="100%" src="https://stats.hyo.dev/api/github-stats?login=nareshrana1999" alt="GitHub Detailed Stats" />
       </a>
     </td>
   </tr>
@@ -81,15 +81,9 @@
 <table>
   <tr>
     <!-- GitHub Trophies Card -->
-    <td width="50%">
+    <td colspan="2" style="text-align: center;">
       <a href="https://github.com/NareshRana1999">
         <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" />
-      </a>
-    </td>
-    <!-- GitHub Detailed Stats Card -->
-    <td width="50%">
-      <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://stats.hyo.dev/api/github-stats?login=nareshrana1999" alt="GitHub Detailed Stats" />
       </a>
     </td>
   </tr>
