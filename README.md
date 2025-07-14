@@ -49,13 +49,13 @@
   <tr>
     <!-- GitHub Stats Card -->
     <td width="50%">
-      <a href="https://github.com/NareshRana1999">
+      <a href="https://github.com/nareshrana1999">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nareshrana1999&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
     <!-- Top Languages Card -->
     <td width="50%">
-      <a href="https://github.com/NareshRana1999">
+      <a href="https://github.com/nareshrana1999">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshrana1999&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
       </a>
     </td>
@@ -63,13 +63,13 @@
   <tr>
     <!-- GitHub Streak Card -->
     <td width="50%">
-      <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <a href="https://github.com/nareshrana1999">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshrana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <!-- GitHub Detailed Stats Card -->
     <td width="50%">
-      <a href="https://github.com/NareshRana1999">
+      <a href="https://github.com/nareshrana1999">
         <img width="100%" src="https://stats.hyo.dev/api/github-stats?login=nareshrana1999" alt="GitHub Detailed Stats" />
       </a>
     </td>
@@ -82,8 +82,8 @@
   <tr>
     <!-- GitHub Trophies Card -->
     <td colspan="2" style="text-align: center;">
-      <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" />
+      <a href="https://github.com/nareshrana1999">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nareshrana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" />
       </a>
     </td>
   </tr>
