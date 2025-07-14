@@ -176,5 +176,3 @@
 - 🔌 **Fiber Optic Communication System** – Skill India (Ministry of Skill Development & Entrepreneurship)
 - 🖥️ **Hardware and Networking** – Certified Professional
 - 💻 **Diploma in Computer Application Basics - MS Office**
-
----
