@@ -40,41 +40,42 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin: 10px 0;">
+<!-- First Row: 3 cards -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin: 10px 0;">
   <!-- Stats Card -->
-  <div>
+  <div style="grid-column: span 2;">
     <a href="https://github.com/NareshRana1999">
-      <img height="120" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&line_height=20" alt="GitHub Stats" style="width: 100%; max-height: 120px;" />
+      <img height="140" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&line_height=22" alt="GitHub Stats" style="width: 100%; max-height: 140px; border-radius: 6px;" />
     </a>
   </div>
   
   <!-- Languages Card -->
-  <div>
+  <div style="grid-column: span 1;">
     <a href="https://github.com/NareshRana1999">
-      <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&langs_count=4&card_width=250" alt="Top Languages" style="width: 100%; max-height: 120px;" />
+      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&langs_count=5&card_width=300" alt="Top Languages" style="width: 100%; max-height: 140px; border-radius: 6px;" />
     </a>
   </div>
   
   <!-- Streak Card -->
-  <div>
+  <div style="grid-column: span 1;">
     <a href="https://github.com/NareshRana1999">
-      <img height="120" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=250" alt="GitHub Streak" style="width: 100%; max-height: 120px;" />
+      <img height="140" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300" alt="GitHub Streak" style="width: 100%; max-height: 140px; border-radius: 6px;" />
     </a>
   </div>
-</div>
-
-<!-- GitHub Metrics -->
-<div style="margin: 10px 0;">
-  <a href="https://github.com/NareshRana1999">
-    <img height="140" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity" alt="GitHub Metrics" style="width: 100%; border-radius: 6px;" />
-  </a>
-</div>
-
-<!-- GitHub Contribution Graph -->
-<div style="margin: 10px 0;">
-  <a href="https://github.com/NareshRana1999">
-    <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Graph&height=300" alt="GitHub Activity Graph" style="width: 100%; border-radius: 6px;" />
-  </a>
+  
+  <!-- GitHub Metrics -->
+  <div style="grid-column: span 2;">
+    <a href="https://github.com/NareshRana1999">
+      <img height="160" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity" alt="GitHub Metrics" style="width: 100%; max-height: 160px; border-radius: 6px;" />
+    </a>
+  </div>
+  
+  <!-- GitHub Contribution Graph -->
+  <div style="grid-column: span 2;">
+    <a href="https://github.com/NareshRana1999">
+      <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Graph&height=300" alt="GitHub Activity Graph" style="width: 100%; max-height: 160px; border-radius: 6px;" />
+    </a>
+  </div>
 </div>
 
 ## 🛠️ Technical Skills
