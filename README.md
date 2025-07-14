@@ -40,78 +40,25 @@
 
 ## 📊 GitHub Stats
 
-<!-- Full Width Contribution Graph with More Details -->
-<div style="margin: 25px 0;">
-  <!-- Main Contribution Graph -->
-  <div style="margin-bottom: 25px;">
-    <h3 align="center">📈 Contribution Graph</h3>
-    <a href="https://github.com/NareshRana1999">
-      <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Contributions&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb" alt="GitHub Contributions Graph" style="width: 100%; border-radius: 8px;" />
-    </a>
-  </div>
+### 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Contributions&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb)](https://github.com/NareshRana1999)
 
-  <!-- GitHub Stats Cards Grid -->
-  <div style="margin: 20px 0;">
-    <h3 align="center" style="margin-bottom: 15px;">📊 GitHub Statistics</h3>
-    
-    <!-- First Row -->
-    <table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin-bottom: 15px;">
-      <tr>
-        <!-- GitHub Stats Card -->
-        <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <div style="text-align: center; padding: 10px;">
-            <h4>GitHub Stats</h4>
-            <a href="https://github.com/NareshRana1999">
-              <img height="160" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&show_reviews=true&show_icons=true&line_height=20" alt="GitHub Stats" style="width: 100%; border-radius: 6px;" />
-            </a>
-          </div>
-        </td>
-        
-        <!-- Top Languages Card -->
-        <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <div style="text-align: center; padding: 10px;">
-            <h4>Top Languages</h4>
-            <a href="https://github.com/NareshRana1999">
-              <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; border-radius: 6px;" />
-            </a>
-          </div>
-        </td>
-      </tr>
-    </table>
-    
-    <!-- Second Row -->
-    <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
-      <tr>
-        <!-- GitHub Streak Stats -->
-        <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <div style="text-align: center; padding: 10px;">
-            <h4>Contribution Streak</h4>
-            <a href="https://github.com/NareshRana1999">
-              <img height="160" src="https://streak-stats.demolab.com/?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="width: 100%; border-radius: 6px;" />
-            </a>
-          </div>
-        </td>
-        
-        <!-- GitHub Metrics Card -->
-        <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <div style="text-align: center; padding: 10px;">
-            <h4>GitHub Metrics</h4>
-            <a href="https://github.com/NareshRana1999">
-              <img height="160" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity" alt="GitHub Metrics" style="width: 100%; border-radius: 6px;" />
-            </a>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Additional Stats -->
-  <div style="margin-top: 25px; text-align: center;">
-    <a href="https://github.com/NareshRana1999">
-      <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" style="max-width: 100%;" />
-    </a>
-  </div>
-</div>
+### 📊 GitHub Statistics
+
+#### GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&show_reviews=true&line_height=20)](https://github.com/NareshRana1999)
+
+#### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true)](https://github.com/NareshRana1999)
+
+#### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/NareshRana1999)
+
+#### GitHub Metrics
+[![GitHub Metrics](https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity)](https://github.com/NareshRana1999)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4)](https://github.com/NareshRana1999)
 
 ## 🛠️ Technical Skills
 
