@@ -64,7 +64,7 @@
     <!-- GitHub Streak Card -->
     <td width="50%">
       <a href="https://github.com/nareshrana1999">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshrana1999&theme=dark" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshrana1999&theme=tokyonight" alt="GitHub Streak" />
       </a>
     </td>
     <!-- GitHub Detailed Stats Card -->
