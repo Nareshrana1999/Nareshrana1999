@@ -91,11 +91,11 @@
         <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" />
       </a>
     </td>
-    <!-- GitHub Extra Stats Card -->
+    <!-- GitHub Detailed Stats Card -->
     <td width="50%">
-      <h4>GitHub Extra Stats</h4>
+      <h4>GitHub Detailed Stats</h4>
       <a href="https://github.com/NareshRana1999">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=NareshRana1999&repo=NareshRana1999&theme=radical&show_owner=true" alt="GitHub Extra Stats" />
+        <img width="100%" src="https://stats.hyo.dev/api/github-stats?login=nareshrana1999" alt="GitHub Detailed Stats" />
       </a>
     </td>
   </tr>
