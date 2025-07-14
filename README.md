@@ -178,13 +178,3 @@
 - 💻 **Diploma in Computer Application Basics - MS Office**
 
 ---
-
-## 🌐 Languages & Communication
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0 20px 0;">
-  <img src="https://img.shields.io/badge/English-Professional-1E90FF?style=flat-square&logo=google-translate" alt="English (Professional)">
-  <img src="https://img.shields.io/badge/Hindi-Native-FF6347?style=flat-square&logo=google-translate" alt="Hindi (Native)">
-  <img src="https://img.shields.io/badge/Nepali-Native-4CAF50?style=flat-square&logo=google-translate" alt="Nepali (Native)">
-  <img src="https://img.shields.io/badge/Kannada-Fluent-9C27B0?style=flat-square&logo=google-translate" alt="Kannada (Fluent)">
-  <img src="https://img.shields.io/badge/Technical_Writing-Expert-20B2AA?style=flat-square&logo=read-the-docs" alt="Technical Writing">
-</div>
