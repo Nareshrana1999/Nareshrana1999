@@ -40,42 +40,40 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Stats and Languages -->
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <!-- Left: GitHub Stats -->
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/NareshRana1999">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&line_height=24" alt="GitHub Stats" style="width: 100%; max-height: 160px; border-radius: 8px;" />
-    </a>
-  </div>
-  
-  <!-- Right: Top Languages -->
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/NareshRana1999">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" style="width: 100%; max-height: 160px; border-radius: 8px;" />
-    </a>
-  </div>
-</div>
+<!-- GitHub Stats Section -->
+<table>
+  <tr>
+    <!-- GitHub Stats Card -->
+    <td width="50%" style="padding: 5px;">
+      <a href="https://github.com/NareshRana1999">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-height: 160px; border-radius: 8px;" />
+      </a>
+    </td>
+    <!-- Top Languages Card -->
+    <td width="50%" style="padding: 5px;">
+      <a href="https://github.com/NareshRana1999">
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-height: 160px; border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- GitHub Streak Stats -->
+    <td width="50%" style="padding: 5px;">
+      <a href="https://github.com/NareshRana1999">
+        <img height="160" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 100%; max-height: 160px; border-radius: 8px;" />
+      </a>
+    </td>
+    <!-- GitHub Metrics Card -->
+    <td width="50%" style="padding: 5px;">
+      <a href="https://github.com/NareshRana1999">
+        <img height="160" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity" alt="GitHub Metrics" style="width: 100%; max-height: 160px; border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Row 2: Streak and Metrics -->
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <!-- Left: Streak Stats -->
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/NareshRana1999">
-      <img height="160" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="width: 100%; max-height: 160px; border-radius: 8px;" />
-    </a>
-  </div>
-  
-  <!-- Right: GitHub Metrics -->
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/NareshRana1999">
-      <img height="160" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.owner=*user.repositories%2C%20recent-activity" alt="GitHub Metrics" style="width: 100%; max-height: 160px; border-radius: 8px;" />
-    </a>
-  </div>
-</div>
-
-<!-- Row 3: Full-width Contribution Graph -->
-<div style="margin-bottom: 10px;">
+<!-- Full Width Contribution Graph -->
+<div style="margin: 15px 0;">
   <a href="https://github.com/NareshRana1999">
     <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" style="width: 100%; max-height: 180px; border-radius: 8px;" />
   </a>
