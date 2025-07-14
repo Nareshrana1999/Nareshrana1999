@@ -33,9 +33,9 @@
 </p>
 
 <!-- Compact Side by Side GIFs -->
-<div style="position: absolute; top: 10px; right: 10px; z-index: 10; display: flex; gap: 3px; background: rgba(13,17,23,0.9); padding: 3px; border-radius: 4px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="assets/gif/coding.gif" alt="Coding" style="width: 40px; height: 30px; object-fit: cover; border-radius: 3px; border: 1px solid rgba(13,71,161,0.4);" />
-  <img src="assets/gif/Gif.gif" alt="Development" style="width: 40px; height: 30px; object-fit: cover; border-radius: 3px; border: 1px solid rgba(13,71,161,0.4);" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 8px; margin: 15px 0; background: rgba(13,17,23,0.9); padding: 6px; border-radius: 6px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1); flex-wrap: nowrap;">
+  <img src="assets/gif/coding.gif" alt="Coding" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
+  <img src="assets/gif/Gif.gif" alt="Development" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
 </div>
 
 ## 📊 GitHub Stats
@@ -71,23 +71,17 @@
     </div>
   </div>
 </div>
-  </div>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/NareshRana1999/github-readme-activity-graph">
-    <img alt="Naresh's Activity Graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true" />
-  </a>
-  
-</div>
+
+<!-- Activity Graph -->
+<a href="https://github.com/NareshRana1999/github-readme-activity-graph">
+  <img alt="Naresh's Activity Graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true" />
+</a>
 
 ## 👋 About Me
 
 <div align="center" style="margin: 20px 0;">
   <p>Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
-  
-
 </div>
-  
 
 ## 🛠️ Technical Skills
 
