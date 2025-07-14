@@ -63,8 +63,8 @@
   <tr>
     <!-- GitHub Streak Card -->
     <td width="50%">
-      <a href="https://github.com/nareshrana1999">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshrana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+        <img width="100%" src="https://streak-stats.demolab.com?user=nareshrana1999&theme=radical&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <!-- GitHub Detailed Stats Card -->
