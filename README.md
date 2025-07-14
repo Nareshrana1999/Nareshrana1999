@@ -72,11 +72,24 @@
   </tr>
 </table>
 
-<!-- Full Width Contribution Graph -->
-<div style="margin: 15px 0;">
+<!-- Full Width Contribution Graph with More Details -->
+<div style="margin: 25px 0;">
+  <h3 align="center">📈 Contribution Graph</h3>
   <a href="https://github.com/NareshRana1999">
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" style="width: 100%; max-height: 180px; border-radius: 8px;" />
+    <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Contributions&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb" alt="GitHub Contributions Graph" style="width: 100%; border-radius: 8px;" />
   </a>
+  
+  <!-- GitHub Contribution Stats -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&show_reviews=true&show_icons=true&line_height=20" alt="GitHub Stats" style="width: 100%; border-radius: 8px;" />
+      </td>
+      <td width="50%" align="center">
+        <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideNums=58a6ff&currStreakNum=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" style="width: 100%; border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🛠️ Technical Skills
