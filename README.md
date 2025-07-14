@@ -33,42 +33,40 @@
 </p>
 
 <!-- Compact Side by Side GIFs -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px; margin: 15px 0; background: rgba(13,17,23,0.9); padding: 6px; border-radius: 6px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1); flex-wrap: nowrap;">
-  <img src="assets/gif/coding.gif" alt="Coding" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
-  <img src="assets/gif/Gif.gif" alt="Development" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 15px 0; background: rgba(13,17,23,0.9); padding: 8px; border-radius: 8px; border: 1px solid rgba(13,71,161,0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.1); flex-wrap: nowrap;">
+  <img src="assets/gif/coding.gif" alt="Coding" style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
+  <img src="assets/gif/Gif.gif" alt="Development" style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px; border: 1px solid rgba(13,71,161,0.4);" />
 </div>
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 2px 0 10px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0; justify-content: center;">
   <!-- Stats Card -->
-  <div style="flex: 1 1 48%; min-width: 200px; background: #0d1117; border-radius: 6px; padding: 4px; border: 1px solid rgba(13,71,161,0.2);">
+  <div style="flex: 1 1 180px; min-width: 180px; background: #0d1117; border-radius: 6px; padding: 6px; border: 1px solid rgba(13,71,161,0.2); box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <a href="https://github.com/NareshRana1999" style="text-decoration: none;">
-      <p style="color: #0d47a1; margin: 0 0 2px 0; font-size: 10px; text-align: center; font-weight: 600;">STATS</p>
-      <img src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true&count_private=true&hide_rank=true&line_height=14&card_width=100%&hide_title=true&border_radius=3&custom_title=&include_all_commits=true" alt="GitHub Stats" style="width: 100%; border-radius: 3px;" />
+      <p style="color: #0d47a1; margin: 0 0 4px 0; font-size: 12px; text-align: center; font-weight: 600;">STATS</p>
+      <img src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true&count_private=true&hide_rank=true&line_height=12&card_width=100%&hide_title=true&border_radius=3&custom_title=&include_all_commits=true" alt="GitHub Stats" style="width: 100%; border-radius: 3px; height: 120px; object-fit: cover;" />
     </a>
   </div>
   
   <!-- Languages Card -->
-  <div style="flex: 1 1 48%; min-width: 200px; background: #0d1117; border-radius: 6px; padding: 4px; border: 1px solid rgba(13,71,161,0.2);">
+  <div style="flex: 1 1 180px; min-width: 180px; background: #0d1117; border-radius: 6px; padding: 6px; border: 1px solid rgba(13,71,161,0.2); box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <a href="https://github.com/NareshRana1999" style="text-decoration: none;">
-      <p style="color: #0d47a1; margin: 0 0 2px 0; font-size: 10px; text-align: center; font-weight: 600;">LANGUAGES</p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true&card_width=100%&hide_title=true&border_radius=3&langs_count=5" alt="Top Languages" style="width: 100%; border-radius: 3px;" />
+      <p style="color: #0d47a1; margin: 0 0 4px 0; font-size: 12px; text-align: center; font-weight: 600;">LANGUAGES</p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true&card_width=100%&hide_title=true&border_radius=3&langs_count=5" alt="Top Languages" style="width: 100%; border-radius: 3px; height: 120px; object-fit: cover;" />
     </a>
   </div>
   
-  <!-- Streak & Trophies Combined -->
-  <div style="flex: 1 1 100%; background: #0d1117; border-radius: 6px; padding: 4px; border: 1px solid rgba(13,71,161,0.2);">
-    <div style="display: flex; gap: 4px;">
-      <div style="flex: 1;">
-        <p style="color: #0d47a1; margin: 0 0 2px 0; font-size: 10px; text-align: center; font-weight: 600;">STREAK</p>
-        <img src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=BBBBBB&card_width=100%&border_radius=3" alt="GitHub Streak" style="width: 100%; border-radius: 3px;" />
-      </div>
-      <div style="flex: 1;">
-        <p style="color: #0d47a1; margin: 0 0 2px 0; font-size: 10px; text-align: center; font-weight: 600;">TROPHIES</p>
-        <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=2&margin-h=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories,Stars&row=1&column=4" alt="GitHub Trophies" style="width: 100%; border-radius: 3px; height: 30px; object-fit: cover;" />
-      </div>
-    </div>
+  <!-- Streak Card -->
+  <div style="flex: 1 1 180px; min-width: 180px; background: #0d1117; border-radius: 6px; padding: 6px; border: 1px solid rgba(13,71,161,0.2); box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p style="color: #0d47a1; margin: 0 0 4px 0; font-size: 12px; text-align: center; font-weight: 600;">STREAK</p>
+    <img src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=BBBBBB&card_width=100%&border_radius=3" alt="GitHub Streak" style="width: 100%; border-radius: 3px; height: 120px; object-fit: cover;" />
+  </div>
+  
+  <!-- Trophies Card -->
+  <div style="flex: 1 1 180px; min-width: 180px; background: #0d1117; border-radius: 6px; padding: 6px; border: 1px solid rgba(13,71,161,0.2); box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p style="color: #0d47a1; margin: 0 0 4px 0; font-size: 12px; text-align: center; font-weight: 600;">TROPHIES</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&margin-w=2&margin-h=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories,Stars&row=1&column=4" alt="GitHub Trophies" style="width: 100%; border-radius: 3px; height: 120px; object-fit: cover;" />
   </div>
 </div>
 
