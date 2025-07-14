@@ -63,10 +63,17 @@
   </div>
 </div>
 
-<!-- Compact Trophy -->
-<div style="text-align: center; margin: 5px 0 15px 0;">
+<!-- GitHub Metrics -->
+<div style="margin: 15px 0;">
   <a href="https://github.com/NareshRana1999">
-    <img height="80" src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&margin-w=5&margin-h=5&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophy" style="max-height: 80px;" />
+    <img height="180" src="https://metrics.lecoq.io/NareshRana1999?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" style="width: 100%; border-radius: 8px;" />
+  </a>
+</div>
+
+<!-- GitHub Contribution Graph -->
+<div style="margin: 15px 0;">
+  <a href="https://github.com/NareshRana1999">
+    <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" style="width: 100%; border-radius: 8px;" />
   </a>
 </div>
 
