@@ -34,7 +34,7 @@
 
 ## 👋 About Me
 
-<div align="center" style="margin: 20px 0;">
+<div style="margin: 20px 0; text-align: justify;">
   <p>Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
 </div>
 
