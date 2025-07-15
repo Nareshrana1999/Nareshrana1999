@@ -34,12 +34,13 @@
 
 ## 👋 About Me
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github.com/Nareshrana1999/Nareshrana1999/assets/139020262/4393951a-998a-45b9-9f94-2f5f2f5f2f5f" alt="Profile GIF" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</div>
-
-<div style="margin: 20px 0; text-align: justify;">
-  <p>Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
+<div style="display: flex; align-items: flex-start; margin: 20px 0;">
+  <div style="flex: 1;">
+    <p style="text-align: justify; margin: 0;">Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://github.com/Nareshrana1999/Nareshrana1999/assets/139020262/4393951a-998a-45b9-9f94-2f5f2f5f2f5f" alt="Profile GIF" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  </div>
 </div>
 
 ## 📊 GitHub Stats
