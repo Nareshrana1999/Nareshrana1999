@@ -35,7 +35,7 @@
 ## 👋 About Me
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Nareshrana1999/Nareshrana1999/main/assets/gif/gif.gif" alt="Profile GIF" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/Nareshrana1999/Nareshrana1999/assets/139020262/4393951a-998a-45b9-9f94-2f5f2f5f2f5f" alt="Profile GIF" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <div style="margin: 20px 0; text-align: justify;">
