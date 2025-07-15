@@ -40,7 +40,9 @@
       <p style="text-align: justify; margin: 0;">Hello! I'm Naresh Rana, a Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. I'm passionate about building innovative solutions and continuously expanding my technical knowledge. With hands-on experience in both development and operations, I bridge the gap between software development and IT operations to deliver efficient, scalable solutions.</p>
     </td>
     <td width="50%" style="padding: 20px;">
-      <img src="assets/gif/gif.gif" alt="Profile GIF" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <div style="position: relative; height: 100%;">
+        <img src="assets/gif/gif.gif" alt="Profile GIF" style="position: absolute; bottom: 0; right: 0; max-height: 100%; width: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      </div>
     </td>
   </tr>
 </table>
