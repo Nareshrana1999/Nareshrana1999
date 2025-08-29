@@ -11,7 +11,7 @@
   </a>
   
   <!-- Resume Badge - Deep Purple -->
-  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1f3CMIw-1u6SlSEu6MO9Ke1zKzV6rMd9k/view?usp=drive_link" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/📄_Resume-7E22CE?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=6B21A8&color=A78BFA" alt="Resume" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   
